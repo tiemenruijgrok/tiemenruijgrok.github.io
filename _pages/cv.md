@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Network & Security Engineering, Hanzehogeschool Groningen, 2021-2025 (expected)
+* B.S. in Minor ICT & Creative Technologies, Certified Ethical Hacking, NHL Stenden Hogeschool, 2023
+* B.S. in Hack@Sea(Cybersafety & Security), NHL Stenden Hogeschool, 2024
 
 Work experience
 ======

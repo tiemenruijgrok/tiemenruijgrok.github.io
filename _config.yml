@@ -22,7 +22,7 @@ repository               : "tiemenruijgrok/tiemenruijgrok.github.io"
 author:
   # Biographic information
   avatar           : "Profilepic.jpg"
-  name             : "My Portfolio Website"
+  name             : "My Personal Website"
   pronouns         : # example: "she/her"  
   bio              : "All my personal work experience and things I find interesting in one place"
   location         : "The Netherlands"
@@ -107,7 +107,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
