@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Goodday!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,16 @@ redirect_from:
 ---
 Hi I'm Tiemen Ruijgrok, a 20 year old Network & Security Engineering student. I'm currently in my third year of the study [HBO-ict](https://www.hanze.nl/nl/opleidingen/voltijd/bachelor/hbo-ict-network-en-security-engineering). I am currently doing an internship at [Web-IQ](https://web-iq.com/) in the technical operations team where I am conducting a pen test.
 
-<!--
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Licenses and certificates
+======
+* Cisco: CCNA - Enterprice Networking, Security, and Automation [(Verify)](https://www.credly.com/badges/1c61a707-528c-46a5-9613-d3aec2c6523d/public_url)
+* Cisco: CCNA - Switching, Routing, and Wireless Essentials [(Verify)](https://www.credly.com/badges/598fe205-e4d9-4f56-9100-201390afc927)
+* Cisco: Introduction to Networks [(Verify)](https://www.credly.com/badges/42ea6a29-7d9d-49c6-9e15-709b6c4da32d)
+* Cisco: Introduction to Packet Tracer [(Verify)](https://www.credly.com/badges/02c1dceb-a674-4fac-93d6-352ea5c823af)
+
+
+
+<!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 
 A data-driven personal website
@@ -49,5 +57,5 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
--->
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
+

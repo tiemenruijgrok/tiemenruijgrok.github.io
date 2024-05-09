@@ -13,33 +13,44 @@ Education
 ======
 * B.S. in Network & Security Engineering, Hanzehogeschool Groningen, 2021-2025 (expected)
 * B.S. in Minor ICT & Creative Technologies, Certified Ethical Hacking, NHL Stenden Hogeschool, 2023
-* B.S. in Hack@Sea(Cybersafety & Security), NHL Stenden Hogeschool, 2024
+* B.S. in Minor Hack@Sea(Cybersafety & Security), NHL Stenden Hogeschool, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Intern Technical Operations: 6 mth
+  * [Web-IQ](https://web-iq.com/)
+  * Fulltime, feb. 2024 - jun. 2024
+  * The third year internship assignment: "Pentesting the Infrastructure and drawing up a pentest manual"
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Deliverer: 1 yr 6 mth
+  * [Eethuis Derde Perron](https://www.derdeperron.nl/)
+  * Parttime, sep. 2022 - feb. 2024
+  * Delivering delicious pizzas by car
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* IT student: 9 mth
+  * [Studentaanhuis](https://www.studentaanhuis.nl/)
+  * Parttime, feb. 2022 - oct. 2022
+  * Personal IT assistance at home by appointment. From setting up printers and smart doorbells to solving blue screens.(Usually for people with little knowledge of ICT, requires a lot of patience ;)
+
+* Grocery store employee: 1 yr 6 mth
+  * [Albert Heijn, Zuidhorn](https://www.ah.nl/winkel/8549)
+  * Parttime, may 2020 - oct. 2021
+  * Shelf filler in the non-perishable products department
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cybersecurity
+  * Ethical hacking
+  * (Kali) Linux
+* Windows
+* Webdesign
+  * HTML
+  * CSS
+  * Javascript
+  * Bootstrap
+* Languages
+  * Dutch
+  * English
 
 Publications
 ======
@@ -59,6 +70,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
