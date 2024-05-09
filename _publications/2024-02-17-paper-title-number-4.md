@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Securing Democracy: The Role of Ethical Hacking in Election Security"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2023-10-10-Securing-Democracy-The-Role-of-Ethical-Hacking-in-Election-Security
+excerpt: 'This research delves into the critical topic of election security, focusing on the role of ethical hacking in safeguarding digital elections.'
+date: 2023-10-10
+venue: 'Personal website'
+paperurl: 'http://tiemenruijgrok.github.io/files/Paper-CEH_TiemenRuijgrok.pdf'
+citation: 'Ruijgrok, Tiemen. (2023). &quot;Securing Democracy: The Role of Ethical Hacking in Election Security.&quot; <i>Personal website</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research delves into the critical topic of election security, focusing on the role of ethical hacking 
+in safeguarding digital elections. It explores vulnerabilities in election systems, potential 
+consequences of hacking, and technological advancements for enhanced security. 
