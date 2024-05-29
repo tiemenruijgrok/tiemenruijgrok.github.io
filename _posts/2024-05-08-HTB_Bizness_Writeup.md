@@ -94,7 +94,7 @@ With the password cracked we can login to the root user to obtain the root.txt f
 
 <img src='/images/HTB_Bizness/Screenshot 2024-05-29 225426.png'>
 
-User flag
+Conclusion
 ======
 Finding the hash in a file is definitely the hardest part, as there are so many files on the system. 
 
