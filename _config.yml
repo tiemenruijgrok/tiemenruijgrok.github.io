@@ -12,7 +12,7 @@ title                    : "Tiemen Ruijgrok"
 title_separator          : "-"
 name                     : &name "Tiemen Ruijgrok"
 description              : &description "This is my personal information website"
-url                      : https://tiemenruijgrok.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tiemenruijgrok.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tiemenruijgrok/tiemenruijgrok.github.io"
 
