@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi I'm Tiemen Ruijgrok, a 20 year old Network & Security Engineering student who likes to mess around with techy things. One of these technical things is ethical hacking, I do this through CTF's (Capture The Flag) to learn how to hack, since I am still a beginner. The best way to learn something is to explain it to someone else in an understandable way, right? So in the [Blog Posts](https://tiemenruijgrok.github.io/year-archive/) tab you can read writeups about how I try to pawn CTF machines.
 
-I'm currently in my fourth year of the study [HBO-ict](https://www.hanze.nl/nl/opleidingen/voltijd/bachelor/hbo-ict-network-en-security-engineering). This includes an internship at [Web-IQ](https://web-iq.com/) in the technical operations team where I am conducting a pen test. In my spare time I enjoy playing guitar and making YouTube videos of covered songs.
+I'm currently in my fourth year of the study [HBO-ict](https://www.hanze.nl/nl/opleidingen/voltijd/bachelor/hbo-ict-network-en-security-engineering). In my spare time I enjoy playing guitar and making YouTube videos of covered songs.
 
 I have published a couple papers during my study period in the [Publications](https://tiemenruijgrok.github.io/publications/) tab.
 
