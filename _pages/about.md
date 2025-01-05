@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "Goodday!"
+title: "Hello World!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi I'm Tiemen Ruijgrok, a 20 year old Network & Security Engineering student who likes to mess around with techy things. One of these technical things is ethical hacking, I do this through CTF's (Capture The Flag) to learn how to hack, since I am still a beginner. The best way to learn something is to explain it to someone else in an understandable way, right? So in the [Blog Posts](https://tiemenruijgrok.github.io/year-archive/) tab you can read writeups about how I try to pawn CTF machines.
+Hi I'm Tiemen Ruijgrok, a 21-year-old Network & Security Engineering student with a passion for exploring all things tech. One of these areas is ethical hacking, which I practice through CTFs (Capture The Flag) to learn the ins and outs of cybersecurity. I believe the best way to learn something is to explain it is a clear and approachable way. In the [Blog Posts](https://tiemenruijgrok.github.io/year-archive/) tab, you can read writeups about my journey pawning CTF machines.
 
-I'm currently in my fourth year of the study [HBO-ict](https://www.hanze.nl/nl/opleidingen/voltijd/bachelor/hbo-ict-network-en-security-engineering). In my spare time I enjoy playing guitar and making YouTube videos of covered songs.
+In addition to tech: I also write engaging [articles](https://tiemenruijgrok.github.io/year-archive/) about emergency preparedness scenarios, where I provide practical tips and guides on what to do before, during, and after various crises. These articles are perfect for anyone looking to stay informed and prepared for the unexpected.
 
-I have published a couple papers during my study period in the [Publications](https://tiemenruijgrok.github.io/publications/) tab.
+I'm currently in my fourth year of [HBO-ICT](https://www.hanze.nl/nl/opleidingen/voltijd/bachelor/hbo-ict-network-en-security-engineering). Outside of tech, I enjoy playing guitar and creating YouTube videos of covered songs.
+
+You can also find paper I've published during my studies in the [Publications](https://tiemenruijgrok.github.io/publications/) tab.
 
 Licenses and certificates
 ------
