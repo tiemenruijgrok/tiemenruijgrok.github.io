@@ -9,6 +9,8 @@ tags:
 
 Een aardbeving, wat doe je? En hoe kun je je voorbereiden?
 
+English version: https://medium.com/@tiemenr/how-to-prepare-for-earthquakes-the-ultimate-safety-checklist-3169b6777c0f
+
 **Stel je voor:** je zit thuis op de bank met je hond, ontspannen aan het genieten van een heerlijk pilsje. Je dwaalt weg in gedachten over wat je dit weekend allemaal wilt doen. Opeens begint alles om je heen te trillen. Het glas rinkelt in de kasten, boeken vallen van de planken en je hond begint luid te blaffen. Het voelt alsof je huis elk moment kan instorten. Je schrikt je dood, net als je hond, waardoor nog meer opgejaagd wordt.
 
 Een aardbeving, wat doe je? En hoe kun je je voorbereiden?
