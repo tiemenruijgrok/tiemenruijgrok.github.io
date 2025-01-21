@@ -3,7 +3,7 @@ title: 'Aardbeving: Wat te doen voor, tijdens en na'
 date: 2025-01-05
 permalink: /posts/2025/01/Aardbeving-Wat-te-doen/
 tags:
-  - scenario's
+  - scenario
   - aardbeving
 ---
 
