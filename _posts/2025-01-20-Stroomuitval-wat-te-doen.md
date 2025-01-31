@@ -9,7 +9,7 @@ tags:
 
 Hoe bereid ik mijn huis voor op een stroomuitval? (van meer dan 24 uur)
 
-English version: []()
+English version: [https://tiemenr.medium.com/how-do-i-prepare-my-home-for-a-power-outage-lasting-more-than-24-hours-be1358c16a23](https://tiemenr.medium.com/how-do-i-prepare-my-home-for-a-power-outage-lasting-more-than-24-hours-be1358c16a23)
 
 Stel je voor: Het is maandagochtend en je hebt net ontbeten en koffie gezet. Je bent thuis aan het werk achter je laptop, want het is een thuiswerkdag. Tijdens een videovergadering met collega’s om de planning van de week te bespreken, gaat plotseling het licht uit. Je denkt eerst slaperig: “Is de lamp stuk?” Maar dan zie je dat je laptop niet meer oplaadt en dat je uit de vergadering bent gegooid. Je controleert andere lichtknoppen en apparaten, maar niks werkt. 
 
