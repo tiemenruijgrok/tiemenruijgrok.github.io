@@ -1,11 +1,11 @@
 ---
 title: "Complete Guide to Setting Up **iSCSI Shared Storage** with Ubuntu Server and Windows Client"
 collection: teaching
-type: ""
+type: "Guide"
 permalink: /teaching/ISCSI
 venue: "3, december"
 date: 2024-12-03
-location: "City, Country"
+location: "Utrecht, Netherlands"
 ---
 
 This guide walks you through setting up an **iSCSI target** on an **Ubuntu server** and connecting a **Windows machine** as an **iSCSI client**. The process includes configuring the iSCSI service, preparing the disk, and connecting it to Windows. This setup is optimized for **single-client** use to avoid data corruption.
