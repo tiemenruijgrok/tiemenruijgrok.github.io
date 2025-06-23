@@ -12,10 +12,11 @@ In addition to tech: I also write engaging [articles](https://tiemenruijgrok.git
 
 I'm currently in my fourth year of [HBO-ICT](https://www.hanze.nl/nl/opleidingen/voltijd/bachelor/hbo-ict-network-en-security-engineering). Outside of tech, I enjoy playing guitar and creating YouTube videos of covered songs.
 
-You can also find paper I've published during my studies in the [Publications](https://tiemenruijgrok.github.io/publications/) tab.
+You can also find papers I've published during my studies in the [Publications](https://tiemenruijgrok.github.io/publications/) tab.
 
 Licenses and certificates
 ------
+* Microsoft Certified: Azure Fundamentals [(Verify)](https://learn.microsoft.com/en-us/users/ruijgrokttiemen-9352/credentials/322b79b429027ffd?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * Cisco: CCNA - Enterprise Networking, Security, and Automation [(Verify)](https://www.credly.com/badges/1c61a707-528c-46a5-9613-d3aec2c6523d/public_url)
 * Cisco: CCNA - Switching, Routing, and Wireless Essentials [(Verify)](https://www.credly.com/badges/598fe205-e4d9-4f56-9100-201390afc927)
 * Cisco: Introduction to Networks [(Verify)](https://www.credly.com/badges/42ea6a29-7d9d-49c6-9e15-709b6c4da32d)
