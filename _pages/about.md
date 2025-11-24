@@ -6,16 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi I'm Tiemen Ruijgrok, a 21-year-old Network & Security Engineering student with a passion for exploring all things tech. One of these areas is ethical hacking, which I practice through CTFs (Capture The Flag) to learn the ins and outs of cybersecurity. I believe the best way to learn something is to explain it is a clear and approachable way. In the [Blog Posts](https://tiemenruijgrok.github.io/year-archive/) tab, you can read writeups about my journey pawning CTF machines.
+Hi I'm Tiemen Ruijgrok, a 22-year-old Cloud Engineer with a passion for exploring all things tech. One of these areas is ethical hacking, which I practice through CTFs (Capture The Flag) to learn the ins and outs of cybersecurity. I believe the best way to learn something is to explain it is a clear and approachable way. In the [Blog Posts](https://tiemenruijgrok.github.io/year-archive/) tab, you can read writeups about my journey pawning CTF machines.
 
 In addition to tech: I also write engaging [articles](https://tiemenruijgrok.github.io/year-archive/) about emergency preparedness scenarios, where I provide practical tips and guides on what to do before, during, and after various crises. These articles are perfect for anyone looking to stay informed and prepared for the unexpected.
 
-I'm currently in my fourth year of [HBO-ICT](https://www.hanze.nl/nl/opleidingen/voltijd/bachelor/hbo-ict-network-en-security-engineering). Outside of tech, I enjoy playing guitar and creating YouTube videos of covered songs.
+Outside of tech, I enjoy playing guitar and creating YouTube videos of covered songs.
 
 You can also find papers I've published during my studies in the [Publications](https://tiemenruijgrok.github.io/publications/) tab.
 
 Licenses and certificates
 ------
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals [(Verify)](https://learn.microsoft.com/en-us/users/tiemenruijgrok/credentials/c2ec70761a2f2946?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+* Professional Scrum Master I [(Verify)](https://www.scrum.org/certificates/1257602)
+* AWS Certified Cloud Practitioner [(Verify)](https://www.credly.com/badges/35fbbf2b-db18-4fca-a07d-2b587bbcfc1c/public_url)
 * Microsoft Certified: Azure Fundamentals [(Verify)](https://learn.microsoft.com/en-us/users/ruijgrokttiemen-9352/credentials/322b79b429027ffd?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * Cisco: CCNA - Enterprise Networking, Security, and Automation [(Verify)](https://www.credly.com/badges/1c61a707-528c-46a5-9613-d3aec2c6523d/public_url)
 * Cisco: CCNA - Switching, Routing, and Wireless Essentials [(Verify)](https://www.credly.com/badges/598fe205-e4d9-4f56-9100-201390afc927)
